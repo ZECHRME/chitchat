@@ -1,0 +1,27 @@
+@import '~bootstrap';
+
+.custom-chat-mine {
+  background-color: #dd00ff;
+  border-radius: 10px;
+  padding: 10px;
+  display: flex;
+  margin-right: 20px;
+}
+
+.custom-chat-others{
+  background-color: #33002b;
+  border-radius: 10px;
+  padding: 10px;
+  display: flex;
+  justify-content: left;
+}
+
+.custom-chat{
+    overflow-y: auto;
+    overflow-x: fixed;
+    height: 400px;   
+}
+
+.custom-chat::-webkit-scrollbar {
+    width: 10px;
+}

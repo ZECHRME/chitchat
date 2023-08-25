@@ -1,0 +1,62 @@
+@import "~bootstrap";
+
+.carddd{
+    background-color: rgb(0, 0, 0);
+    margin: 5%;
+    color:aliceblue;
+    border-radius: 10px;
+    border: 2px solid rgb(255, 255, 255);
+}
+
+.custom-btn{
+    float: right;
+    background-color: rgb(0, 0, 0);
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    color: aliceblue;
+    margin-right:5%; 
+
+}
+
+.custom-btn:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border: 2px solid rgb(0, 0, 0);
+}
+
+.custom-li {
+    background-color: rgb(84, 20, 70);
+    border: 1px solid rgb(11, 11, 11);
+    border-radius: 0 0 10px 0 !important;
+    color: aliceblue;
+}
+
+.custom-li:hover{
+    background-color: rgb(244, 95, 226);
+    color: rgb(26, 4, 25);
+    border: 1px solid rgb(0, 0, 0);
+}
+
+.message-bg{
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    border: 2px solid rgb(255, 255, 255);
+    padding-right: -40px;
+}
+
+.custom-btn-2{
+    margin-top: 10%;
+    padding: 7% 10% 7% 10%;
+    font-size: 300%;
+    background-color: rgb(0, 0, 0);
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    color: aliceblue; 
+}
+
+.newtext-muted2{
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    margin: 0%;
+    padding: 0%;
+}

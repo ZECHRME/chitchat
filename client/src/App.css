@@ -1,0 +1,10 @@
+@import "~bootstrap";
+
+body{
+    background-color: black;
+    color: white;
+}
+
+.newtext-muted{
+    color:rgb(94, 94, 94)
+}
